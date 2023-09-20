@@ -2,3 +2,22 @@
   text-align: center;
 }
 
+.nav-bar ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bar li{
+  display: inline-block;
+  margin: 20px;
+}
+
+.nav-bar a{
+  text-decoration: none;  /*underline thakbe na*/
+  color: #000;
+}
+
+.nav-bar li a:hover, a.active{
+  color: orange;
+}
