@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H9_4wdnQaWu5EiNkPN5X-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Send successful/ unsuccessful message&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="H9_4wdnQaWu5EiNkPN5X-8" edge="1">
+        <mxCell id="H9_4wdnQaWu5EiNkPN5X-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Display successful/ unsuccessful message&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="H9_4wdnQaWu5EiNkPN5X-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="1060" as="sourcePoint" />
             <mxPoint x="340" y="1060" as="targetPoint" />
