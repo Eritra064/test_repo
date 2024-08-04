@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,16 +125,16 @@
         <mxCell id="H9_4wdnQaWu5EiNkPN5X-39" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="730" width="740" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="H9_4wdnQaWu5EiNkPN5X-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[ Via Third Party ]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="85" y="760" width="100" height="30" as="geometry" />
+        <mxCell id="H9_4wdnQaWu5EiNkPN5X-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[ Third Party ]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="85" y="760" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H9_4wdnQaWu5EiNkPN5X-41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Display authorization form&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="H9_4wdnQaWu5EiNkPN5X-41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Display third party bank information form&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="790" as="sourcePoint" />
             <mxPoint x="90" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H9_4wdnQaWu5EiNkPN5X-42" value="Authorization form fill up" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="H9_4wdnQaWu5EiNkPN5X-11" edge="1">
+        <mxCell id="H9_4wdnQaWu5EiNkPN5X-42" value="Third party bank information form fill up" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="H9_4wdnQaWu5EiNkPN5X-11" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="90" y="820" as="sourcePoint" />
             <mxPoint x="170" y="820" as="targetPoint" />
@@ -182,13 +182,13 @@
             <mxPoint x="410" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sMN3Jm_nZXrrOU7xmv14-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Submit request ( Withdrawal amount, Bank information,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Withdrawal mode, Authorization form information )&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sMN3Jm_nZXrrOU7xmv14-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Submit request ( Withdrawal amount, Bank information,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Withdrawal mode, Authorization form information )&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="465" y="803" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sMN3Jm_nZXrrOU7xmv14-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Submit request ( Withdrawal amount, Bank information,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Withdrawal mode )&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sMN3Jm_nZXrrOU7xmv14-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Submit request ( Withdrawal amount, Bank information,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Withdrawal mode )&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="905" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sMN3Jm_nZXrrOU7xmv14-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Select Withdrawal mode&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.47;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H9_4wdnQaWu5EiNkPN5X-9">
+        <mxCell id="sMN3Jm_nZXrrOU7xmv14-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Select Withdrawal mode&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.47;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="H9_4wdnQaWu5EiNkPN5X-9" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="90" y="500" as="sourcePoint" />
             <mxPoint x="170" y="500" as="targetPoint" />
