@@ -437,7 +437,7 @@
         <mxCell id="C_euNgZRWYM7CTl2wlGn-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="425" y="810" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C_euNgZRWYM7CTl2wlGn-3" value="Extract NID no,&lt;div&gt;name, DOB,&amp;nbsp;&lt;/div&gt;&lt;div&gt;photo from NID&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" target="C_euNgZRWYM7CTl2wlGn-2" edge="1">
+        <mxCell id="C_euNgZRWYM7CTl2wlGn-3" value="Extract NID no,&lt;div&gt;name, DOB,&lt;/div&gt;&lt;div&gt;from NID&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" target="C_euNgZRWYM7CTl2wlGn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="790" as="sourcePoint" />
             <Array as="points">
@@ -703,6 +703,23 @@
         </mxCell>
         <mxCell id="ZexdWAT4SIGQtlzZW9C7-2" value="[ else ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="418" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F6LaM3MTLBliCt5CA0ns-1" value="Upload both sides of NID" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="tD_sIaR1mBdh_h0ZWl81-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="460" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IM3B_e1qhwuDPmm3vKqa-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="425" y="490" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IM3B_e1qhwuDPmm3vKqa-2" value="Extract NID no,&lt;div&gt;name, DOB,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="IM3B_e1qhwuDPmm3vKqa-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
