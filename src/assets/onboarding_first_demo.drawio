@@ -204,7 +204,7 @@
         <mxCell id="PONzJlfWyAiGVMEQcCJP-48" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="970" width="380" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PONzJlfWyAiGVMEQcCJP-49" value="[ Selected mood : Single Account ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="PONzJlfWyAiGVMEQcCJP-49" value="[ Selected mode : Single Account ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1000" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PONzJlfWyAiGVMEQcCJP-50" value="Redirect to Single Account Application page" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
