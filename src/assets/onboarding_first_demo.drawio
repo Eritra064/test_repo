@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="3">
-  <diagram id="XyLvkDP1ZP4WPKBWuGZV" name="Page-4">
+  <diagram id="XyLvkDP1ZP4WPKBWuGZV" name="Mobile_no_verification">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -236,7 +236,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="U1Pq9bupyyPr4zRWDffU" name="Page-5">
+  <diagram id="U1Pq9bupyyPr4zRWDffU" name="Single_Account">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -647,7 +647,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3lVgV1Gu_YlLrSjoJM09" name="Page-6">
+  <diagram id="3lVgV1Gu_YlLrSjoJM09" name="Joint_Account">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
