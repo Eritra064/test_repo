@@ -1244,6 +1244,18 @@
             <mxPoint x="660" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wXw6AlEpbHpgybLe4qi4-11" value="Display NID no, name, DOB" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="mycH_M2KRUpljMjbRCmn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="680" as="sourcePoint" />
+            <mxPoint x="330" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wXw6AlEpbHpgybLe4qi4-12" value="Display NID no, name, DOB" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="mycH_M2KRUpljMjbRCmn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="330" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
