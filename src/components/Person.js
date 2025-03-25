@@ -14,7 +14,7 @@ import React,{Component} from "react";
 let Person = (props) =>{
     return(
       <div>
-      <h3>Name: {props.name} and Age: {props.age} Years</h3>
+      <h3>FullName: {props.name} and Age: {props.age} Years</h3>
       <h4>Extra info: {props.children}</h4>
       </div>
     );
